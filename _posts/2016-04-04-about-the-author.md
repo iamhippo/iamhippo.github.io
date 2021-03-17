@@ -7,4 +7,8 @@ tags: [sample]
 image: cuba-4.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+關於荷馬，本人生長在鶯歌的一個純樸的小鎮，他叫二橋，嘿！對你可能連聽都沒聽過，這裡什麼都好，但公車不太好，堪稱接駁車等級的公車。
+為什麼有這個網站？
+原因大概有幾個：
+1.本人喜歡講幹話，但又不太喜歡po在 Instagram上面。
+2.
